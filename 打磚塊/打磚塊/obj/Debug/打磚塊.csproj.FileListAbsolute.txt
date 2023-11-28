@@ -1,0 +1,12 @@
+D:\期末專題\打磚塊\打磚塊\bin\Debug\打磚塊.exe.config
+D:\期末專題\打磚塊\打磚塊\bin\Debug\打磚塊.exe
+D:\期末專題\打磚塊\打磚塊\bin\Debug\打磚塊.pdb
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.csprojResolveAssemblyReference.cache
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.Form1.resources
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.Properties.Resources.resources
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.csproj.GenerateResource.Cache
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.exe
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.pdb
+D:\期末專題\打磚塊\打磚塊\obj\Debug\Interop.WMPLib.dll
+D:\期末專題\打磚塊\打磚塊\obj\Debug\AxInterop.WMPLib.dll
+D:\期末專題\打磚塊\打磚塊\obj\Debug\打磚塊.csproj.ResolveComReference.cache
